@@ -1,6 +1,7 @@
 # LGUPlus_CATM1
 
-LGUPlus CATM1 Open Source Resource
+LGUPlus CATM1 Open Source Resource.
+
 Tested on Arduino NANO 33 IoT, MEGA2560, ESP32-WROOM-32
 
 
