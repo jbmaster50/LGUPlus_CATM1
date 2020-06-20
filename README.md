@@ -1,2 +1,2 @@
 # LGUPlus_CATM1
-LGUPlus CATM1 Software Resource
+LGUPlus CATM1 Open Source Resource
