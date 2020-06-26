@@ -57,7 +57,7 @@ void setup() {
 		DebugSerial.println(szCIMI);
 	}
 
-	/* Get ServingCell */
+	/* Get UICCID */
 	char szUICCID[20];
 	if (BG96.getUICCID(szUICCID, sizeof(szUICCID) ) == 0)
 	{
