@@ -15,7 +15,7 @@ Tested on Arduino NANO 33 IoT, MEGA2560, ESP32-WROOM-32
 
 # CAT.M1 + NANO 33 IoT
 
-![NANO_33_IoT_BG96](https://user-images.githubusercontent.com/22319034/85817405-d7bb8180-b7a8-11ea-95cc-d8f03f3012ef.png)
+![NANO_33_IoT_BG96_bb](https://user-images.githubusercontent.com/5525230/90127908-f0a3e480-dda0-11ea-8255-8b12b13a53ad.png)
 
 
 # CAT.M1 + ESP32
